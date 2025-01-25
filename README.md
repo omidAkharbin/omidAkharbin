@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm omid Akharbin</h1>
+<h1 align="center">Hi 👋, I'm omid Akharbin</h1>
 
 <h3 align="center">Creative Front-End Developer & Web Designer </h3><br>
 
