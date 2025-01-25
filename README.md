@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm omid Akharbin</h1>
 
-<h3 align="center">creative Front-End Developer & web Designer </h3><br>
+<h3 align="center">Creative Front-End Developer & Web Designer </h3><br>
 
 
 <img width="900"  margin-left="150px"   src="https://github.com/user-attachments/assets/c5f5e8d6-9585-4310-9617-35f86428a914"><br>
