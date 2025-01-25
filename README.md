@@ -2,13 +2,26 @@
 
 <h3 align="center">Creative Front-End Developer & Web Designer </h3><br>
 
+```
+const response = {
+  status: 200,
+  data: {
+    fullName: "omid Akharbin",
+    birthDay: "1993 march 25",
+    hobbies: ["podcast", "study", "cycling", "web scraping"],
+    languages: ["javascript , Typescript"],
+    quote: "Fail . learn grow",
+    currently: working on React.js projects
+  },
+};
+```
 
 <img width="900"  margin-left="150px"   src="https://github.com/user-attachments/assets/c5f5e8d6-9585-4310-9617-35f86428a914"><br>
 
 # 💫 About Me:
 <img width="200"   align="right"  padding-bottom="50px" margin-bottom="50px"  src="https://github.com/user-attachments/assets/33bf46e6-4da0-43c1-b2d2-ec010db7762c"><br>
 
-📌 I’m currently open for relocation jobs <br>🤝 ready for collaborate on Remote or Full-time projects<br>🧑‍💻 All of my projects are available at https://github.com/omidAkharbin 
+📌 I’m currently open for relocation jobs <br>🤝 ready for collaborate on Remote or Full-time projects<br>🧑‍💻 All of my projects are available at https://github.com/omidAkharbin<br> 📫 How to reach me Email: Bestomweb@gmail.com 💼 Telegram: @Bestomweb
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omid-akharbin-7ab41522a/) 
