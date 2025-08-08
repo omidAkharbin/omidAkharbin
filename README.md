@@ -31,30 +31,31 @@ const response = {
 ---
 ### Expertise:
 
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="41" alt="html5 logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=css" height="41" alt="css logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="41" alt="bootstrap logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="41" alt="tailwindcss logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=sass" height="41" alt="sass logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=react" height="41" alt="react logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=redux" height="41" alt="redux logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="41" alt="typescript logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="41" alt="wordpress logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="41" alt="jquery logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" height="41" alt="woocommerce logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="45" alt="wordpress logo"  />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="45" alt="jquery logo"  />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" height="45" alt="woocommerce logo"  />
 </div>
 
 ###
