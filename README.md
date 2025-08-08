@@ -23,7 +23,7 @@ const response = {
 # 💫 About Me:
 <img width="200"   align="right"  padding-bottom="50px" margin-bottom="50px"  src="https://raw.githubusercontent.com/omidAkharbin/omidAkharbin/refs/heads/main/bestomweb.gif"><br>
 
- - 📌 I’m currently open for relocation jobs and ready for collaborate on Remote or Full-time projects  
+📌 I’m currently open for relocation jobs and ready for collaborate on Remote or Full-time projects  
  - All of my projects are available at [https://github.com/omidAkharbin](https://github.com/omidAkharbin)
 
 <br>
@@ -116,7 +116,6 @@ const response = {
 ###
 
 ---
-<br>
 
 <img src="https://raw.githubusercontent.com/omidAkharbin/omidAkharbin/refs/heads/main/Analytics.gif" width="30" style="vertical-align: left;"> GitHub Analytics :
 
@@ -126,10 +125,6 @@ const response = {
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-[![](https://visitcount.itsvg.in/api?id=omidAkharbin&icon=0&color=0)](https://visitcount.itsvg.in)
-## <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omidakharbin" alt="omidakharbin" /></a> </p>
 
 <img width="900"  margin-left="150px"   src="https://raw.githubusercontent.com/omidAkharbin/omidAkharbin/refs/heads/main/codes.gif"><br>
 
