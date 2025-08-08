@@ -13,8 +13,6 @@ const response = {
     FormValidation: ["ReactHookForm , Formik"],
     StateManagment: ["Redux-Toolkit , useReducer"],
     currently: working on React.js projects
-
-
   },
 };
 ```
@@ -25,10 +23,9 @@ const response = {
 # 💫 About Me:
 <img width="200"   align="right"  padding-bottom="50px" margin-bottom="50px"  src="https://raw.githubusercontent.com/omidAkharbin/omidAkharbin/refs/heads/main/bestomweb.gif"><br>
 
-📌 I’m currently open for relocation jobs <br>🤝 ready for collaborate on Remote or Full-time projects<br>🧑‍💻 All of my projects are available at https://github.com/omidAkharbin<br> 📫 How to reach me Email: Bestomweb@gmail.com 💼 Telegram: @Bestomweb
+ - 📌 I’m currently open for relocation jobs and ready for collaborate on Remote or Full-time projects  
+ - All of my projects are available at [https://github.com/omidAkharbin](https://github.com/omidAkharbin)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omid-akharbin-7ab41522a/) 
 
 
 ---
@@ -94,7 +91,30 @@ const response = {
 </div>
 
 ---
+ 
+### Connect with me:
 
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/omid-akharbin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/omidevcode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="@bestomweb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+  <a href="bestomweb@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+---
 
 <img src="https://raw.githubusercontent.com/omidAkharbin/omidAkharbin/refs/heads/main/Analytics.gif" width="30" style="vertical-align: left;"> GitHub Analytics :
 
@@ -103,8 +123,7 @@ const response = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidAkharbin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
-
-
+---
 
 ## 🏆 GitHub Trophies
 [![](https://visitcount.itsvg.in/api?id=omidAkharbin&icon=0&color=0)](https://visitcount.itsvg.in)
