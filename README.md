@@ -27,34 +27,35 @@ const response = {
  - All of my projects are available at [https://github.com/omidAkharbin](https://github.com/omidAkharbin)
 
 
-
----
 ### Expertise:
 
+---
+
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="2" />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="45" alt="wordpress logo"  />
-  <img width="2" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="45" alt="jquery logo"  />
-  <img width="2" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" height="45" alt="woocommerce logo"  />
 </div>
 
@@ -63,32 +64,36 @@ const response = {
  
 ### Tools & Technology :
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="41" alt="git logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=github" height="41" alt="github logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="41" alt="vscode logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="41" alt="npm logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="41" alt="firebase logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=figma" height="41" alt="figma logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="41" alt="vercel logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="41" alt="netlify logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ps" height="41" alt="adobephotoshop logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=md" height="41" alt="markdown logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=postman" height="41" alt="postman logo"  />
-  <img width="4" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="41" alt="jest logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="41" alt="materialui logo"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="cloudflare logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="3" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="45" alt="netlify logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=md" height="45" alt="markdown logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="materialui logo"  />
 </div>
 
 ---
