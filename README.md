@@ -26,12 +26,12 @@ const response = {
  - 📌 I’m currently open for relocation jobs and ready for collaborate on Remote or Full-time projects  
  - All of my projects are available at [https://github.com/omidAkharbin](https://github.com/omidAkharbin)
 
-
-### Expertise:
+<br>
+<br>
 
 ---
 
-<br clear="both">
+### Expertise:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
@@ -63,8 +63,6 @@ const response = {
 ---
  
 ### Tools & Technology :
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cloudflare" height="45" alt="cloudflare logo"  />
@@ -100,9 +98,6 @@ const response = {
  
 ### Connect with me:
 
-
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/omid-akharbin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -121,6 +116,7 @@ const response = {
 ###
 
 ---
+<br>
 
 <img src="https://raw.githubusercontent.com/omidAkharbin/omidAkharbin/refs/heads/main/Analytics.gif" width="30" style="vertical-align: left;"> GitHub Analytics :
 
