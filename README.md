@@ -9,7 +9,7 @@ const response = {
     fullName: "omid Akharbin",
     birthDay: "1993 march 25",
     languages: ["javascript , Typescript"],
-    Libraries: ["React , ReactRouter"],
+    Libraries: ["React"],
     FormValidation: ["ReactHookForm , Formik"],
     StateManagment: ["Redux-Toolkit , useReducer"],
     currently: working on React.js projects
